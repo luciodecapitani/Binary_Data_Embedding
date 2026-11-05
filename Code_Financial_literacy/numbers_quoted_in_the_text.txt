@@ -1,0 +1,10 @@
+Number of statistical units: 2036
+Number of observed profiles: 59
+Optimal variable index permutation: 2,3,1,4,6,5
+Global loss of the optimal embedding: 0.0411
+Observed profiles (1711 pairs): input lattice 590 comparabilities and 1121 incomparabilities; output poset 938 and 773
+All of the 64 profiles (2016 pairs): input lattice 665 comparabilities and 1351 incomparabilities; output poset 1104 and 912
+Observed profiles: the output poset has 59% comparabilities more and 31% incomparabilities less than the input lattice
+Units with K2=0 and K3=1 (compound but not simple interest): 131 (refused/missing: 3; don't know: 60; wrong answer: 68 to the simple interest question)
+Units by education degree: Bachelor/master or higher: 249; Elementary or no degree: 241; High school: 976; Middle school: 570
+Table 1 (relative frequencies of 0,...,6 entries equal to 1): 0.07 0.10 0.14 0.17 0.17 0.22 0.14
