@@ -44,6 +44,10 @@ The results were obtained with R 4.6.2 under Windows 11. The required packages a
 - `poseticDataAnalysis` and `viridis`, from CRAN, in both folders;
 - `POSAC`, from [GitHub](https://github.com/CambridgeAssessmentResearch/POSAC) at a fixed commit, with `remotes`, from CRAN, only in `Code_OBE_vs_POSAC`.
 
+## Licence
+
+The code is released under the [MIT License](LICENSE). The licence does not cover the data: see below.
+
 ## Data
 
 The file `iacofi.csv` comes from the 2020 edition of the Bank of Italy survey on the financial literacy of adults in Italy (*Indagine sull'alfabetizzazione finanziaria degli adulti in Italia*):
